@@ -5,7 +5,11 @@ O sistema utiliza um Arduino e um sensor MPU6050 para medir temperatura e movime
 A manutenção preditiva oferece uma base para analisar melhorias no desempenho do carro e prever superaquecimentos, auxiliando decisões estratégicas como pitstops.
 
 Equipe de Desenvolvimento:
+
 Matheus Dantas – RM: 558804
+
 Marco Antonio Andrade Gonçalves – RM: 556818
+
 Silas Alves Santos – RM: 555020
+
 Camila Takara – RM: 555418
