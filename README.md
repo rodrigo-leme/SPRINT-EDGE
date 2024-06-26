@@ -58,13 +58,10 @@ O sistema utiliza um Arduino e um sensor MPU6050 para medir temperatura e movime
    - Detalhe as mudanças realizadas.
    - Aguarde a revisão da equipe de desenvolvimento.
 
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
 
-Para mais informações, entre em contato com a equipe de desenvolvimento através dos e-mails fornecidos no perfil do GitHub.
+Para mais informações, entre em contato com a equipe de desenvolvimento através dos e-mails fornecidos no perfil do GitHub, ou contate um dos desenvolvedores da equipe de projetos
 
 ---
 
